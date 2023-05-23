@@ -3,8 +3,7 @@
 This role will setup a mailcow dockerized email server.
 
 ## Prerequisites
-
-- Up and running Ubuntu/Debian host (other distributions not supported/tested for now)
+- Fixed to work with Ubuntu, Debian, and RHEL
 - Docker Compose v2 is required!
 
 ## Requirements
